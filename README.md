@@ -1,11 +1,6 @@
 <!-- Cabeçalho -->
 <p align="center">
-  <img width="100%" alt="Cabeçalho" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Leandro%20Almeida&fontSize=48&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=ADS%20%E2%80%A2%20FIVJ%20%E2%80%A2%20Dados%20%26%20Tecnologia&descAlignY=58&descSize=18&descColor=c0caf5" />
-</p>
-
-<!-- Texto animado -->
-<p align="center">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=%F0%9F%8E%93+ADS+-+FIVJ;%F0%9F%93%8A+Dados+%26+Tecnologia;%F0%9F%92%BB+Web+%26+Software;%F0%9F%93%9A+Estudante+focado+em+Banco+de+Dados" />
+  <img width="100%" alt="Leandro Almeida - ADS FIVJ, Dados & Tecnologia" src="assets/banner.svg" />
 </p>
 
 <p align="center">
@@ -90,5 +85,5 @@ Busco evoluir continuamente em programação, engenharia de software e resoluç�
 </p>
 
 <p align="center">
-  <img width="100%" alt="Rodapé" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=100&section=footer" />
+  <img width="100%" alt="Rodapé" src="assets/footer.svg" />
 </p>
