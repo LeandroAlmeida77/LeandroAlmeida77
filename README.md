@@ -1,6 +1,13 @@
 <!-- Cabeçalho -->
 <p align="center">
-  <img width="100%" alt="Leandro Almeida - ADS FIVJ, Dados & Tecnologia" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0055ff&height=220&section=header&text=Leandro%20Almeida&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20&%20Software%20%7C%20ADS%20FIVJ&descSize=20&descColor=ffffff" />
+  <img width="100%" alt="Leandro Almeida - Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0055ff&height=220&section=header&text=Leandro%20Almeida&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=30" />
+</p>
+
+<!-- Texto Animado (Máquina de Escrever) -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=50&lines=ADS+-+FIVJ;Dados+%26+Tecnologia;Banco+de+Dados;Desenvolvimento+de+Software+e+Web" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
