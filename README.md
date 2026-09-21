@@ -1,8 +1,19 @@
-<!-- Cabeçalho Completo e Integrado -->
+<!-- Cabeçalho Perfeitamente Alinhado -->
 <p align="center">
-  <img width="100%" alt="Leandro Almeida - Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0055ff&height=220&section=header&text=Leandro%20Almeida&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=30" />
-  <br>
-  <img style="margin-top: -75px;" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=35&lines=Estudante+de+ADS+na+FIVJ;Foco+em+Dados+e+Banco+de+Dados;Desenvolvimento+de+Software+e+Web;Em+busca+de+novos+desafios+profissionais" alt="Typing SVG" />
+  <img width="100%" alt="Leandro Almeida - Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0055ff&height=220&section=header&text=Leandro%20Almeida&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=25" />
+</p>
+
+<div align="center" style="margin-top: -65px; margin-bottom: 25px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=30&lines=Estudante+de+ADS+na+FIVJ;Foco+em+Dados+e+Banco+de+Dados;Desenvolvimento+de+Software+e+Web;Em+busca+de+novos+desafios+profissionais" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/leandroalmeidajf">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0055ff" />
+  </a>
+  <a href="https://github.com/LeandroAlmeida77">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=0055ff" />
+  </a>
 </p>
 
 <p align="center">
