@@ -85,7 +85,7 @@ Busco evoluir continuamente em programação, análise de dados e resolução de
 ---
 
 <p align="center">
-  <i>🤖 A IA gera o código, mas quem garante que ele funciona é o programador 🧠.</i>
+  <i>🤖 A IA gera o código, mas quem garante que ele funcione é o programador 🧠.</i>
 </p>
 
 <p align="center">
