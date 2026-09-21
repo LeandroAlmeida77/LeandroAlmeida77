@@ -54,7 +54,7 @@ Busco evoluir continuamente em programação, engenharia de software e resoluç�
 
 <p align="center">
   <b>Ferramentas</b><br><br>
-  <img alt="Ferramentas" src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+  <img alt="Ferramentas" src="https://skillicons.dev/icons?i=vscode,idea,git,github&theme=dark" />
 </p>
 
 ---
