@@ -1,14 +1,14 @@
 <!-- Cabeçalho -->
 <p align="center">
-  <img width="100%" alt="Leandro Almeida - ADS FIVJ, Dados & Tecnologia" src="assets/banner.svg" />
+  <img width="100%" alt="Leandro Almeida - ADS FIVJ, Dados & Tecnologia" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0055ff&height=220&section=header&text=Leandro%20Almeida&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20&%20Software%20%7C%20ADS%20FIVJ&descSize=20&descColor=ffffff" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/leandroalmeidajf">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0055ff" />
   </a>
   <a href="https://github.com/LeandroAlmeida77">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=bb9af7" />
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=0055ff" />
   </a>
 </p>
 
@@ -88,6 +88,7 @@ Busco evoluir continuamente em programação, análise de dados e resolução de
   <i>🤖 A IA gera o código, mas quem garante que ele funcione é o programador 🧠.</i>
 </p>
 
+<!-- Rodapé Animado -->
 <p align="center">
-  <img width="100%" alt="Rodapé" src="assets/footer.svg" />
+  <img width="100%" alt="Rodapé" src="https://capsule-render.vercel.app/api?type=waving&color=0:0055ff,100:000000&height=120&section=footer&animation=fadeIn" />
 </p>
