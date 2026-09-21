@@ -1,13 +1,8 @@
-<!-- Cabeçalho -->
+<!-- Cabeçalho Completo e Integrado -->
 <p align="center">
-  <img width="100%" alt="Leandro Almeida - Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0055ff&height=200&section=header&text=Leandro%20Almeida&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
-
-<!-- Texto Animado (Máquina de Escrever) em cima do banner -->
-<p align="center" style="margin-top: -30px;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=40&lines=Estudante+de+ADS+na+FIVJ;Foco+em+Dados+e+Banco+de+Dados;Desenvolvimento+de+Software+e+Web;Em+busca+de+novos+desafios+profissionais" alt="Typing SVG" />
-  </a>
+  <img width="100%" alt="Leandro Almeida - Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0055ff&height=220&section=header&text=Leandro%20Almeida&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=30" />
+  <br>
+  <img style="margin-top: -75px;" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=35&lines=Estudante+de+ADS+na+FIVJ;Foco+em+Dados+e+Banco+de+Dados;Desenvolvimento+de+Software+e+Web;Em+busca+de+novos+desafios+profissionais" alt="Typing SVG" />
 </p>
 
 <p align="center">
