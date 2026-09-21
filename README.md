@@ -27,11 +27,15 @@ Busco evoluir continuamente em programação, engenharia de software e resoluç�
 
 ## 🎯 Foco atual
 
+<div align="center">
+
 | | Área | O que estou estudando |
 |---|---|---|
 | 📊 | **Dados & Banco de Dados** | SQL, modelagem e manipulação de dados com MySQL |
 | 💻 | **Software** | Lógica de programação e boas práticas com Java, C# e Python |
 | 🌐 | **Web** | HTML, CSS e JavaScript |
+
+</div>
 
 ---
 
