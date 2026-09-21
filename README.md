@@ -81,7 +81,7 @@ Busco evoluir continuamente em programação, engenharia de software e resoluç�
 ---
 
 <p align="center">
-  <i>🚀 Em constante evolução</i>
+  <i>🤖 A IA gera o código, mas quem garante que ele funciona é o programador 🧠.</i>
 </p>
 
 <p align="center">
