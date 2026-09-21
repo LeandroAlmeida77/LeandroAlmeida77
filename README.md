@@ -21,7 +21,7 @@
 💻 Aprofundando conhecimento em **Desenvolvimento de Software e Web**  
 📚 Construindo projetos práticos para consolidar o conteúdo estudado
 
-Busco evoluir continuamente em programação, engenharia de software e resolução de problemas, mantendo disciplina nos estudos. Estou aberto a oportunidades que tragam aprendizado, desafios técnicos e crescimento profissional.
+Busco evoluir continuamente em programação, análise de dados e resolução de problemas, mantendo disciplina nos estudos. Estou aberto a oportunidades que tragam aprendizado, desafios técnicos e crescimento profissional.
 
 ---
 
