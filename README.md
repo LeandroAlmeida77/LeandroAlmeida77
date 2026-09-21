@@ -1,23 +1,22 @@
-<!-- Cabeçalho -->
-<div align="center">
-  <table style="border: none; background: transparent;">
-    <tr>
-      <td align="center" background="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0055ff&height=180&section=header" style="border: none; width: 100vw;">
-        <h1 style="color: #ffffff; font-size: 38px; margin: 0;">Leandro Almeida</h1>
-        <p style="color: #ffffff; font-size: 16px; margin: 5px 0 0 0;">ADS - FIVJ | Dados & Tecnologia | Banco de Dados</p>
-      </td>
-    </tr>
-  </table>
+<!-- Cabeçalho Definitivo -->
+<p align="center">
+  <img width="100%" alt="Leandro Almeida - Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0055ff&height=180&section=header&text=Leandro%20Almeida&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
 
-  <p style="margin-top: 15px;">
-    <a href="https://www.linkedin.com/in/leandroalmeidajf">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0055ff" />
-    </a>
-    <a href="https://github.com/LeandroAlmeida77">
-      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=0055ff" />
-    </a>
-  </p>
-</div>
+<p align="center" style="margin-top: -35px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=35&lines=ADS+-+FIVJ;Dados+%26+Tecnologia;Banco+de+Dados;Desenvolvimento+de+Software+e+Web" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center" style="margin-top: 10px;">
+  <a href="https://www.linkedin.com/in/leandroalmeidajf">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0055ff" />
+  </a>
+  <a href="https://github.com/LeandroAlmeida77">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=0055ff" />
+  </a>
+</p>
 
 ---
 
