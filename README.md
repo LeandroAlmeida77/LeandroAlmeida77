@@ -41,26 +41,19 @@ Busco evoluir continuamente em programação, análise de dados e resolução de
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Linguagens e Tecnologias
 
 <p align="center">
-  <b>Linguagens</b><br><br>
-  <img alt="Linguagens" src="https://skillicons.dev/icons?i=java,cs,py,js&theme=dark" />
-</p>
-
-<p align="center">
-  <b>Web</b><br><br>
-  <img alt="Web" src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
-</p>
-
-<p align="center">
-  <b>Banco de Dados</b><br><br>
-  <img alt="Banco de Dados" src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-</p>
-
-<p align="center">
-  <b>Ferramentas</b><br><br>
-  <img alt="Ferramentas" src="https://skillicons.dev/icons?i=vscode,idea,git,github&theme=dark" />
+  <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img alt="CSharp" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
+  <img alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+  <img alt="VSCODE" width="40px" src="https://skillicons.dev/icons?i=vscode,idea,&theme=dark"/>
+  <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
 </p>
 
 ---
