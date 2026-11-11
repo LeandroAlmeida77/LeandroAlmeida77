@@ -52,10 +52,10 @@ Busco evoluir continuamente em programação, análise de dados e resolução de
 ## 💻 Meu setup
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Acer%20Nitro%20V15-1a1b27?style=flat-square&logo=acer&logoColor=white&labelColor=1a1b27&color=83B81A"/>
   <img src="https://img.shields.io/badge/AMD%20Ryzen%207%207735HS-1a1b27?style=flat-square&logo=amd&logoColor=white&labelColor=1a1b27&color=ED1C24"/>
-  <img src="https://img.shields.io/badge/AMD%20Ryzen%207-1a1b27?style=flat-square&logo=amd&logoColor=white&labelColor=1a1b27&color=ED1C24"/>
   <img src="https://img.shields.io/badge/NVIDIA%20RTX%204050-1a1b27?style=flat-square&logo=nvidia&logoColor=white&labelColor=1a1b27&color=76B900"/>
-  <img src="https://img.shields.io/badge/16%20GB%20RAM-1a1b27?style=flat-square&labelColor=1a1b27&color=bb9af7"/>
+  <img src="https://img.shields.io/badge/16%20GB%20Crucial%204800%20MHz-1a1b27?style=flat-square&labelColor=1a1b27&color=bb9af7"/>
 </p>
 
 ---
