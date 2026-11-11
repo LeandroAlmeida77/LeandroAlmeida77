@@ -19,8 +19,8 @@
   <a href="https://github.com/LeandroAlmeida77"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
----
-
+<center>
+  
 ## 👨🏻‍💻 Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na **FIVJ**, com foco em **Dados & Tecnologia** e ênfase em **Banco de Dados**.
@@ -28,8 +28,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **FIVJ**, com foc
 Estou aprofundando meu conhecimento em **Desenvolvimento de Software e Web**, elaborando projetos práticos para consolidar o conteúdo estudado.
 
 Busco evoluir continuamente em programação, análise de dados e resolução de problemas, mantendo disciplina nos estudos. Estou aberto a oportunidades que tragam aprendizado, desafios técnicos e crescimento profissional.
-
----
 
 ## 🛠️ Tecnologias e ferramentas
 
@@ -47,8 +45,6 @@ Busco evoluir continuamente em programação, análise de dados e resolução de
   <img alt="GitHub" width="40px" src="https://cdn.simpleicons.org/github/white" />
 </p>
 
----
-
 ## 💻 Meu setup
 
 <p align="center">
@@ -58,7 +54,6 @@ Busco evoluir continuamente em programação, análise de dados e resolução de
     <img src="https://img.shields.io/badge/Monitor%20Pichau%20Cepheus%20VPRO27%360Hz-1a1b27?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMiA0aDIwdjEySDJ6TTQgNmgxNnY4SDR6TTEwIDE2aDR2M2gtNHpNNyAxOWgxMHYySDd6Ii8%2BPC9zdmc%2B&labelColor=1a1b27&color=ED1C24"/>
   <img src="https://img.shields.io/badge/16%20GB%20Crucial%204800%20MHz-1a1b27?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMiA2aDIwdjlIMnpNNCA4aDN2NEg0ek05IDhoM3Y0SDl6TTE0IDhoM3Y0aC0zek0xOSA4aDJ2NGgtMnpNMyAxNi41aDEuNVYxOUgzek02IDE2LjVoMS41VjE5SDZ6TTkgMTYuNWgxLjVWMTlIOXpNMTQuNSAxNi41SDE2VjE5aC0xLjV6TTE3LjUgMTYuNUgxOVYxOWgtMS41ek0yMCAxNi41aDEuNVYxOUgyMHoiLz48L3N2Zz4%3D&labelColor=1a1b27&color=0055ff"/>
 </p>
----
 
 ## 📊 GitHub Stats
 
@@ -75,8 +70,6 @@ Busco evoluir continuamente em programação, análise de dados e resolução de
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeandroAlmeida77&theme=tokyonight" width="49%" alt="Linguagens mais usadas"/>
 </p>
 
----
-
 ## 🧱 Contribuições
 
 <!-- Tetris animado (gerado por .github/workflows/tetris.yml) -->
@@ -88,8 +81,6 @@ Busco evoluir continuamente em programação, análise de dados e resolução de
   </picture>
 </p>
 
----
-
 ## 🚀 Projetos
 
 <p align="center">
@@ -100,11 +91,11 @@ Busco evoluir continuamente em programação, análise de dados e resolução de
 
 **💻 Projetos pessoais** — aplicações e experimentos para colocar em prática o que venho estudando.
 
----
-
 ## 🎯 Objetivo
 
 Continuar evoluindo em dados e desenvolvimento, construir projetos cada vez mais completos e transformar conhecimento em experiência prática.
+
+</center>
 
 ---
 
