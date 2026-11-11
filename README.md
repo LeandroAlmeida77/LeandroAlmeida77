@@ -56,6 +56,7 @@ Busco evoluir continuamente em programação, análise de dados e resolução de
   <img src="https://img.shields.io/badge/AMD%20Ryzen%207%207735HS-1a1b27?style=flat-square&logo=amd&logoColor=white&labelColor=1a1b27&color=ED1C24"/>
   <img src="https://img.shields.io/badge/NVIDIA%20RTX%204050-1a1b27?style=flat-square&logo=nvidia&logoColor=white&labelColor=1a1b27&color=76B900"/>
   <img src="https://img.shields.io/badge/16%20GB%20Crucial%204800%20MHz-1a1b27?style=flat-square&labelColor=1a1b27&color=bb9af7"/>
+  <img src="https://img.shields.io/badge/Monitor%20Pichau%20Cepheus%20VPRO27-1a1b27?style=flat-square&labelColor=1a1b27&color=ff9e64"/>
 </p>
 
 ---
