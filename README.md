@@ -1,11 +1,11 @@
-<!-- ===================== HEADER ===================== -->
+
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a1633,100:0055ff&height=230&section=header&text=Leandro%20Almeida&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Dados%20e%20Tecnologia&descSize=18&descColor=9aa5ce&descAlignY=58" alt="Header"/>
 </p>
 
-<!-- ===================== TYPING ===================== -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=640&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Leandro+%F0%9F%91%8B;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Dados+%7C+Banco+de+Dados+%7C+SQL;Software+%7C+Web+%7C+Java+%7C+C%23+%7C+Python" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=135FED&center=true&vCenter=true&width=640&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Leandro+%F0%9F%91%8B;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Dados+%7C+Banco+de+Dados+%7C+SQL;Software+%7C+Web+%7C+Java+%7C+C%23+%7C+Python" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -19,11 +19,17 @@
   <a href="https://github.com/LeandroAlmeida77"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  
-## 👨🏻‍💻 Sobre mim
+---
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na **FIVJ**, com foco em **Dados & Tecnologia** e ênfase em **Banco de Dados**.
+<h2 align="center">
+
+👨🏻‍💻 Sobre mim 
+
+</h2>
+
+<p align="center">
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na **FIVJ**, com foco em **Dados e Tecnologia** e ênfase em **Banco de Dados**.
 
 Estou aprofundando meu conhecimento em **Desenvolvimento de Software e Web**, elaborando projetos práticos para consolidar o conteúdo estudado.
 
@@ -31,7 +37,11 @@ Busco evoluir continuamente em programação, análise de dados e resolução de
 
 </p>
 
-## 🛠️ Tecnologias e ferramentas
+---
+
+<h2 align = "center">
+🛠️ Tecnologias e ferramentas
+</h2>
 
 <p align="center">
   <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
@@ -47,17 +57,25 @@ Busco evoluir continuamente em programação, análise de dados e resolução de
   <img alt="GitHub" width="40px" src="https://cdn.simpleicons.org/github/white" />
 </p>
 
-## 💻 Meu setup
+--- 
+
+<h2 align = "center">
+💻 Meu setup
+</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Acer%20Nitro%20V15-1a1b27?style=flat-square&logo=acer&logoColor=white&labelColor=1a1b27&color=83B81A"/>
-  <img src="https://img.shields.io/badge/AMD%20Ryzen%207%207735HS-1a1b27?style=flat-square&logo=amd&logoColor=white&labelColor=1a1b27&color=ED1C24"/>
-  <img src="https://img.shields.io/badge/NVIDIA%20RTX%204050-1a1b27?style=flat-square&logo=nvidia&logoColor=white&labelColor=1a1b27&color=76B900"/>
-    <img src="https://img.shields.io/badge/Monitor%20Pichau%20Cepheus%20VPRO27%360Hz-1a1b27?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMiA0aDIwdjEySDJ6TTQgNmgxNnY4SDR6TTEwIDE2aDR2M2gtNHpNNyAxOWgxMHYySDd6Ii8%2BPC9zdmc%2B&labelColor=1a1b27&color=ED1C24"/>
+  <img src="https://img.shields.io/badge/Acer%20Nitro%20V15-1a1b27?style=flat-square&logo=acer&logoColor=white&labelColor=1a1b27&color=83B81A"/> 
+  <img src="https://img.shields.io/badge/AMD%20Ryzen%207%207735HS-1a1b27?style=flat-square&logo=amd&logoColor=white&labelColor=1a1b27&color=ED1C24"/> <br>
+  <img src="https://img.shields.io/badge/NVIDIA%20RTX%204050-1a1b27?style=flat-square&logo=nvidia&logoColor=white&labelColor=1a1b27&color=76B900"/> 
+    <img src="https://img.shields.io/badge/Monitor%20Pichau%20Cepheus%20VPRO27%360Hz-1a1b27?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMiA0aDIwdjEySDJ6TTQgNmgxNnY4SDR6TTEwIDE2aDR2M2gtNHpNNyAxOWgxMHYySDd6Ii8%2BPC9zdmc%2B&labelColor=1a1b27&color=ED1C24"/> <br>
   <img src="https://img.shields.io/badge/16%20GB%20Crucial%204800%20MHz-1a1b27?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMiA2aDIwdjlIMnpNNCA4aDN2NEg0ek05IDhoM3Y0SDl6TTE0IDhoM3Y0aC0zek0xOSA4aDJ2NGgtMnpNMyAxNi41aDEuNVYxOUgzek02IDE2LjVoMS41VjE5SDZ6TTkgMTYuNWgxLjVWMTlIOXpNMTQuNSAxNi41SDE2VjE5aC0xLjV6TTE3LjUgMTYuNUgxOVYxOWgtMS41ek0yMCAxNi41aDEuNVYxOUgyMHoiLz48L3N2Zz4%3D&labelColor=1a1b27&color=0055ff"/>
 </p>
 
-## 📊 GitHub Stats
+--- 
+
+<h2 align="center">
+📊 GitHub Stats
+</h2>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeandroAlmeida77&theme=tokyonight" alt="Profile details"/>
@@ -74,7 +92,6 @@ Busco evoluir continuamente em programação, análise de dados e resolução de
 
 ## 🧱 Contribuições
 
-<!-- Tetris animado (gerado por .github/workflows/tetris.yml) -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeandroAlmeida77/LeandroAlmeida77/output/github-tetris-dark.svg" />
@@ -83,19 +100,22 @@ Busco evoluir continuamente em programação, análise de dados e resolução de
   </picture>
 </p>
 
-## 🚀 Projetos
+---
+
+<h1 align="center">
+🚀 Projetos
+</h1>
 
 <p align="center">
-  <i>Confira meus repositórios para acompanhar minha evolução.</i>
+  <i> Repositórios de Projetos  </i>
 </p>
 
-**🎓 Projetos acadêmicos** — desenvolvidos na graduação, aplicando programação, banco de dados e desenvolvimento web.
+<p align = "center">
+🎓 **Projetos Acadêmicos** - Desenvolvidos na Graduação <br>
 
-**💻 Projetos pessoais** — aplicações e experimentos para colocar em prática o que venho estudando.
+💻 **Projetos Pessoais** - Aplicações e experimento em prática
 
-## 🎯 Objetivo
-
-Continuar evoluindo em dados e desenvolvimento, construir projetos cada vez mais completos e transformar conhecimento em experiência prática.
+</p>
 
 ---
 
