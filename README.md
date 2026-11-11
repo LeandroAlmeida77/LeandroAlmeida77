@@ -55,10 +55,9 @@ Busco evoluir continuamente em programação, análise de dados e resolução de
   <img src="https://img.shields.io/badge/Acer%20Nitro%20V15-1a1b27?style=flat-square&logo=acer&logoColor=white&labelColor=1a1b27&color=83B81A"/>
   <img src="https://img.shields.io/badge/AMD%20Ryzen%207%207735HS-1a1b27?style=flat-square&logo=amd&logoColor=white&labelColor=1a1b27&color=ED1C24"/>
   <img src="https://img.shields.io/badge/NVIDIA%20RTX%204050-1a1b27?style=flat-square&logo=nvidia&logoColor=white&labelColor=1a1b27&color=76B900"/>
-  <img src="https://img.shields.io/badge/16%20GB%20Crucial%204800%20MHz-1a1b27?style=flat-square&labelColor=1a1b27&color=bb9af7"/>
-  <img src="https://img.shields.io/badge/Monitor%20Pichau%20Cepheus%20VPRO27-1a1b27?style=flat-square&labelColor=1a1b27&color=ff9e64"/>
+    <img src="https://img.shields.io/badge/Monitor%20Pichau%20Cepheus%20VPRO27%360Hz-1a1b27?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMiA0aDIwdjEySDJ6TTQgNmgxNnY4SDR6TTEwIDE2aDR2M2gtNHpNNyAxOWgxMHYySDd6Ii8%2BPC9zdmc%2B&labelColor=1a1b27&color=ED1C24"/>
+  <img src="https://img.shields.io/badge/16%20GB%20Crucial%204800%20MHz-1a1b27?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMiA2aDIwdjlIMnpNNCA4aDN2NEg0ek05IDhoM3Y0SDl6TTE0IDhoM3Y0aC0zek0xOSA4aDJ2NGgtMnpNMyAxNi41aDEuNVYxOUgzek02IDE2LjVoMS41VjE5SDZ6TTkgMTYuNWgxLjVWMTlIOXpNMTQuNSAxNi41SDE2VjE5aC0xLjV6TTE3LjUgMTYuNUgxOVYxOWgtMS41ek0yMCAxNi41aDEuNVYxOUgyMHoiLz48L3N2Zz4%3D&labelColor=1a1b27&color=0055ff"/>
 </p>
-
 ---
 
 ## 📊 GitHub Stats
