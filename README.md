@@ -19,7 +19,7 @@
   <a href="https://github.com/LeandroAlmeida77"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<center>
+<p align="center">
   
 ## 👨🏻‍💻 Sobre mim
 
@@ -95,7 +95,7 @@ Busco evoluir continuamente em programação, análise de dados e resolução de
 
 Continuar evoluindo em dados e desenvolvimento, construir projetos cada vez mais completos e transformar conhecimento em experiência prática.
 
-</center>
+</p>
 
 ---
 
