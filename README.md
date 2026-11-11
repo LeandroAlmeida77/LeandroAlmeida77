@@ -111,8 +111,7 @@ Busco evoluir continuamente em programação, análise de dados e resolução de
 </p>
 
 <p align = "center">
-🎓 **Projetos Acadêmicos** - Desenvolvidos na Graduação <br>
-
+🎓 **Projetos Acadêmicos** - Desenvolvidos na Graduação
 💻 **Projetos Pessoais** - Aplicações e experimento em prática
 
 </p>
