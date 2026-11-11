@@ -34,23 +34,28 @@ Busco evoluir continuamente em programação, análise de dados e resolução de
 ## 🛠️ Tecnologias e ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,py,html,css,js,mysql,vscode,idea,git,github&theme=dark" alt="Skills"/>
+  <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img alt="CSharp" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+  <img alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img alt="VSCode" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img alt="IntelliJ" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+  <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="GitHub" width="40px" src="https://cdn.simpleicons.org/github/white" />
 </p>
 
 ---
 
-## 📚 Atualmente estudando
+## 💻 Meu setup
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL%20%26%20MySQL-1a1b27?style=flat-square&logo=mysql&logoColor=white&labelColor=1a1b27&color=4479A1"/>
-  <img src="https://img.shields.io/badge/Modelagem%20de%20Dados-1a1b27?style=flat-square&labelColor=1a1b27&color=bb9af7"/>
-  <img src="https://img.shields.io/badge/Java-1a1b27?style=flat-square&logo=openjdk&logoColor=white&labelColor=1a1b27&color=f89820"/>
-  <img src="https://img.shields.io/badge/C%23-1a1b27?style=flat-square&logo=csharp&logoColor=white&labelColor=1a1b27&color=9b4f96"/>
-  <img src="https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=white&labelColor=1a1b27&color=3776AB"/>
-  <img src="https://img.shields.io/badge/HTML5%20%26%20CSS3-1a1b27?style=flat-square&logo=html5&logoColor=E34F26&labelColor=1a1b27&color=E34F26"/>
-  <img src="https://img.shields.io/badge/JavaScript-1a1b27?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=1a1b27&color=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-1a1b27?style=flat-square&logo=github&logoColor=white&labelColor=1a1b27&color=7aa2f7"/>
-  <img src="https://img.shields.io/badge/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o-1a1b27?style=flat-square&labelColor=1a1b27&color=9ece6a"/>
+  <img src="https://img.shields.io/badge/AMD%20Ryzen%207%207735HS-1a1b27?style=flat-square&logo=amd&logoColor=white&labelColor=1a1b27&color=ED1C24"/>
+  <img src="https://img.shields.io/badge/AMD%20Ryzen%207-1a1b27?style=flat-square&logo=amd&logoColor=white&labelColor=1a1b27&color=ED1C24"/>
+  <img src="https://img.shields.io/badge/NVIDIA%20RTX%204050-1a1b27?style=flat-square&logo=nvidia&logoColor=white&labelColor=1a1b27&color=76B900"/>
+  <img src="https://img.shields.io/badge/16%20GB%20RAM-1a1b27?style=flat-square&labelColor=1a1b27&color=bb9af7"/>
 </p>
 
 ---
