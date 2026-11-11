@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0055ff&height=200&section=header&text=Leandro%20Almeida&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a1633,100:0055ff&height=230&section=header&text=Leandro%20Almeida&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Dados%20%26%20Tecnologia&descSize=18&descColor=9aa5ce&descAlignY=58" alt="Header"/>
 </p>
 
 <!-- ===================== TYPING ===================== -->
