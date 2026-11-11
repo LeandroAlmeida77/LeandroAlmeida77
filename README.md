@@ -29,6 +29,8 @@ Estou aprofundando meu conhecimento em **Desenvolvimento de Software e Web**, el
 
 Busco evoluir continuamente em programação, análise de dados e resolução de problemas, mantendo disciplina nos estudos. Estou aberto a oportunidades que tragam aprendizado, desafios técnicos e crescimento profissional.
 
+</p>
+
 ## 🛠️ Tecnologias e ferramentas
 
 <p align="center">
@@ -94,8 +96,6 @@ Busco evoluir continuamente em programação, análise de dados e resolução de
 ## 🎯 Objetivo
 
 Continuar evoluindo em dados e desenvolvimento, construir projetos cada vez mais completos e transformar conhecimento em experiência prática.
-
-</p>
 
 ---
 
